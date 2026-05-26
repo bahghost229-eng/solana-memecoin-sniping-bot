@@ -1,0 +1,8 @@
+flask==3.0.0
+requests==2.31.0
+websocket-client==1.7.0
+python-telegram-bot==20.7
+solana==0.34.0
+solders==0.21.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
